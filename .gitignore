@@ -3,6 +3,7 @@ __pycache__
 
 data/*
 !data/.gitkeep
+!data/query.fasta
 
 res/*
 !res/.gitkeep
