@@ -2,6 +2,13 @@
 
 # blastn
 
+| File         | Desc               |
+| ------------ | ------------------ |
+| Module.py    | Smith-Waterman算法 |
+| blastn.ipynb | BLASTN算法实现     |
+
+## 数据集下载
+
 https://blog.csdn.net/qq_53947118/article/details/122571107
 
 ```sh
@@ -23,7 +30,3 @@ makeblastdb -in GRCh38.fasta -dbtype nucl -out GRCh38
 ```
 
 
-| File         | Desc               |
-| ------------ | ------------------ |
-| Module.py    | Smith-Waterman算法 |
-| blastn.ipynb | BLASTN算法实现     |
